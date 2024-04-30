@@ -1,1 +1,1 @@
-# student-data-fetch
+Run backend using `node server.js` from backend folder then run `npm start` from the mern-student-app-client to start the UI. I've also created the student model using mongoose but to demonstrate that how we can fetch the data from csv file I've not connected the model but it's in the code base and can easily be used to replace.
